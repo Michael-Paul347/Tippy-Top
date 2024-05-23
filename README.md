@@ -1,0 +1,1 @@
+An experiment for fun, it is a simple memory based game based on remembering which color box was tapped and sequentually proceeds to add more color box to be tapped which the player has to remember from the beginning.
